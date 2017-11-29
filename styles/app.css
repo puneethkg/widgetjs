@@ -1,0 +1,45 @@
+.noTxt{font-size:0;line-height:0}
+
+.txtSize15{font-size:15px}
+.txtSize30{font-size:30px}
+
+.container {
+    height: 100%;
+    width: 900px;
+    margin: auto;
+    background-color: #F4F7F6;
+    padding: 10px;
+}
+
+.app-header {
+    background-color: #F3F2F0;
+    color: #000;
+    padding:10px;
+    border:1px solid #ccc;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.highiighted-btn {
+    background-color: #006B97;
+    text-align: center;
+    color: #fff;
+    width: 130px;
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.leftMargin10{
+    margin-left: 10px;
+}
+
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
